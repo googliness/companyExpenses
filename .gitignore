@@ -1,0 +1,3 @@
+venv26/
+db.sqlite3
+migrations
